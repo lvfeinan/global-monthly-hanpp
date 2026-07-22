@@ -1,0 +1,22 @@
+fao_code,fao_item,cropgrids_file,ggcmi_phases,time_method
+0111,Wheat,wheat,"wwh,swh",GGCMI
+0112,Maize (corn),maize,"mai",GGCMI
+0113,Rice,rice,"ri1,ri2",GGCMI
+0114,Sorghum,sorghum,"sor",GGCMI
+0115,Barley,barley,"bar",GGCMI
+0116,Rye,rye,"rye",GGCMI
+0117,Oats,oats,"bar",GGCMI
+0118,Millet,millet,"mil",GGCMI
+0141,Soya beans,soybean,"soy",GGCMI
+0142,"Groundnuts, excluding shelled",groundnut,"nut",GGCMI
+01443,Rape or colza seed,rapeseed,"rap",GGCMI
+01445,Sunflower seed,sunflower,"sun",GGCMI
+01802,Sugar cane,sugarcane,"sgc",GGCMI
+01801,Sugar beet,sugarbeet,"sgb",GGCMI
+01921.01,"Seed cotton, unginned",cotton,"cot",GGCMI
+01510,Potatoes,potato,"pot",GGCMI
+01520.01,"Cassava, fresh",cassava,"cas",GGCMI
+01530,Sweet potatoes,sweetpotato,"cas",GGCMI
+01701,"Beans, dry",bean,"bea",GGCMI
+01705,"Peas, dry",pea,"pea",GGCMI
+01491.01,Oil palm fruit,oilpalm,,uniform

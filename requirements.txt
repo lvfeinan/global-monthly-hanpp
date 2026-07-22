@@ -1,0 +1,33 @@
+# Python >= 3.10. Conda is recommended for the geospatial packages.
+
+# Numerical and array processing
+numpy
+pandas
+xarray
+scipy
+dask[array]
+netCDF4
+
+# Geospatial processing
+geopandas
+rioxarray
+rasterio
+geocube
+pyproj
+cartopy
+country_converter
+pyarrow
+openpyxl
+
+# Statistics and visualization
+statsmodels
+matplotlib
+seaborn
+ultraplot
+
+# Notebook and configuration support
+pyyaml
+tqdm
+ipykernel
+jupyterlab
+nbconvert

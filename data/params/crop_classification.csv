@@ -1,0 +1,166 @@
+,Item,Harvest_cls,Recover_cls
+0,"Abaca, manila hemp, raw",Permanent crops,unrecover
+1,"Agave fibres, raw, n.e.c.",Permanent crops,unrecover
+2,"Almonds, in shell",Permanent crops,unrecover
+3,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","Rapeseed, oil crops",Other oil crops
+4,Apples,Permanent crops,unrecover
+5,Apricots,Permanent crops,unrecover
+6,Areca nuts,Permanent crops,unrecover
+7,Artichokes,Permanent crops,unrecover
+8,Asparagus,Permanent crops,unrecover
+9,Avocados,Permanent crops,unrecover
+10,"Bambara beans, dry",Pulses,"Beans, dry"
+11,Bananas,Permanent crops,unrecover
+12,Barley,"Wheat, other cereals",Cereals
+13,"Beans, dry",Pulses,"Beans, dry"
+14,Blueberries,Permanent crops,unrecover
+15,"Brazil nuts, in shell",Permanent crops,Other oil crops
+16,"Broad beans and horse beans, dry",Pulses,"Beans, dry"
+17,"Broad beans and horse beans, green",Pulses,Other pulses
+18,Buckwheat,"Wheat, other cereals",Cereals
+19,Cabbages,Fodder crops,unrecover
+20,Canary seed,"Wheat, other cereals",Cereals
+21,Cantaloupes and other melons,Fodder crops,unrecover
+22,Carrots and turnips,Roots and Tubers,Roots and tubers
+23,"Cashew nuts, in shell",Permanent crops,unrecover
+24,Cashewapple,Permanent crops,unrecover
+25,"Cassava, fresh",Cassava,Roots and tubers
+26,Castor oil seeds,Castor Beans,Other oil crops
+27,Cauliflowers and broccoli,Fodder crops,unrecover
+28,Cereals n.e.c.,"Wheat, other cereals",Cereals
+29,Cherries,Permanent crops,unrecover
+30,"Chestnuts, in shell",Permanent crops,unrecover
+31,"Chick peas, dry",Pulses,Other pulses
+32,Chicory roots,Roots and Tubers,Roots and tubers
+33,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",Permanent crops,unrecover
+34,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)","Rapeseed, oil crops",unrecover
+35,"Cinnamon and cinnamon-tree flowers, raw",Permanent crops,unrecover
+36,"Cloves (whole stems), raw",Permanent crops,unrecover
+37,Cocoa beans,Permanent crops,Other oil crops
+38,"Coconuts, in shell",Permanent crops,Other oil crops
+39,"Coffee, green",Permanent crops,unrecover
+40,"Coir, raw",Permanent crops,unrecover
+41,"Cotton lint, ginned","Rapeseed, oil crops",unrecover
+42,Cotton seed,"Rapeseed, oil crops",Other oil crops
+43,"Cow peas, dry",Pulses,"Beans, dry"
+44,Cranberries,Permanent crops,unrecover
+45,Cucumbers and gherkins,Fodder crops,unrecover
+46,Currants,Permanent crops,unrecover
+47,Dates,Permanent crops,unrecover
+48,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",Roots and Tubers,Roots and tubers
+49,Eggplants (aubergines),Permanent crops,unrecover
+50,Figs,Permanent crops,unrecover
+51,"Flax, raw or retted","Rapeseed, oil crops",Other oil crops
+52,Fonio,Millet,Cereals
+53,"Ginger, raw",Roots and Tubers,Roots and tubers
+54,Gooseberries,Permanent crops,unrecover
+55,Grapes,Permanent crops,unrecover
+56,Green corn (maize),Maize,Cereals
+57,Green garlic,Roots and Tubers,unrecover
+58,"Groundnuts, excluding shelled","Rapeseed, oil crops",Other oil crops
+59,"Hazelnuts, in shell",Permanent crops,unrecover
+60,Hempseed,"Rapeseed, oil crops",Other oil crops
+61,Hop cones,Permanent crops,unrecover
+62,Jojoba seeds,"Rapeseed, oil crops",Other oil crops
+63,"Jute, raw or retted","Rapeseed, oil crops",unrecover
+64,"Kapok fibre, raw",Permanent crops,unrecover
+65,Kapok fruit,Permanent crops,Other oil crops
+66,Kapokseed in shell,"Rapeseed, oil crops",Other oil crops
+67,Karite nuts (sheanuts),Permanent crops,Other oil crops
+68,"Kenaf, and other textile bast fibres, raw or retted","Rapeseed, oil crops",unrecover
+69,Kiwi fruit,Permanent crops,unrecover
+70,Kola nuts,Permanent crops,unrecover
+71,Leeks and other alliaceous vegetables,Roots and Tubers,unrecover
+72,Lemons and limes,Permanent crops,unrecover
+73,"Lentils, dry",Pulses,Other pulses
+74,Lettuce and chicory,Fodder crops,unrecover
+75,Linseed,"Rapeseed, oil crops",Other oil crops
+76,Locust beans (carobs),Permanent crops,Other pulses
+77,Lupins,Pulses,Other pulses
+78,Maize (corn),Maize,Cereals
+79,"Mangoes, guavas and mangosteens",Permanent crops,unrecover
+80,Maté leaves,Permanent crops,unrecover
+81,Melonseed,"Rapeseed, oil crops",Other oil crops
+82,Millet,Millet,Cereals
+83,Mixed grain,"Wheat, other cereals",Cereals
+84,Mushrooms and truffles,Roots and Tubers,unrecover
+85,Mustard seed,"Rapeseed, oil crops",Other oil crops
+86,Natural rubber in primary forms,Permanent crops,unrecover
+87,"Nutmeg, mace, cardamoms, raw",Permanent crops,unrecover
+88,Oats,"Wheat, other cereals",Cereals
+89,Oil palm fruit,Oil Palm Fruit,Oil palm fruit
+90,Okra,Pulses,unrecover
+91,Olives,Permanent crops,Other oil crops
+92,"Onions and shallots, dry (excluding dehydrated)",Roots and Tubers,unrecover
+93,"Onions and shallots, green",Roots and Tubers,unrecover
+94,Oranges,Permanent crops,unrecover
+95,"Other beans, green",Pulses,Other pulses
+96,Other berries and fruits of the genus vaccinium n.e.c.,Permanent crops,unrecover
+97,"Other citrus fruit, n.e.c.",Permanent crops,unrecover
+98,"Other fibre crops, raw, n.e.c.",Permanent crops,unrecover
+99,"Other fruits, n.e.c.",Permanent crops,unrecover
+100,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",Permanent crops,Other oil crops
+101,"Other oil seeds, n.e.c.","Rapeseed, oil crops",Other oil crops
+102,Other pome fruits,Permanent crops,unrecover
+103,Other pulses n.e.c.,Pulses,Other pulses
+104,"Other stimulant, spice and aromatic crops, n.e.c.",Permanent crops,unrecover
+105,Other stone fruits,Permanent crops,unrecover
+106,Other sugar crops n.e.c.,Sugar Cane,Sugar crops nes
+107,"Other tropical fruits, n.e.c.",Permanent crops,unrecover
+108,"Other vegetables, fresh n.e.c.",Roots and Tubers,unrecover
+109,Palm kernels,Oil Palm Fruit,Oil palm fruit
+110,Papayas,Permanent crops,unrecover
+111,Peaches and nectarines,Permanent crops,unrecover
+112,Pears,Permanent crops,unrecover
+113,"Peas, dry",Pulses,Other pulses
+114,"Peas, green",Pulses,Other pulses
+115,"Pepper (Piper spp.), raw",Permanent crops,unrecover
+116,"Peppermint, spearmint",Permanent crops,unrecover
+117,Persimmons,Permanent crops,unrecover
+118,"Pigeon peas, dry",Pulses,Other pulses
+119,Pineapples,Permanent crops,unrecover
+120,"Pistachios, in shell",Permanent crops,unrecover
+121,Plantains and cooking bananas,Permanent crops,unrecover
+122,Plums and sloes,Permanent crops,unrecover
+123,Pomelos and grapefruits,Permanent crops,unrecover
+124,Poppy seed,"Rapeseed, oil crops",Other oil crops
+125,Potatoes,Roots and Tubers,Roots and tubers
+126,"Pumpkins, squash and gourds","Rapeseed, oil crops",unrecover
+127,"Pyrethrum, dried flowers","Rapeseed, oil crops",unrecover
+128,Quinces,Permanent crops,unrecover
+129,Quinoa,"Wheat, other cereals",Cereals
+130,"Ramie, raw or retted",Permanent crops,unrecover
+131,Rape or colza seed,"Rapeseed, oil crops",Rape seed
+132,Raspberries,Permanent crops,unrecover
+133,Rice,"Rice, Paddy",Cereals
+134,Rye,"Wheat, other cereals",Cereals
+135,Safflower seed,"Rapeseed, oil crops",Other oil crops
+136,"Seed cotton, unginned","Rapeseed, oil crops",unrecover
+137,Sesame seed,"Rapeseed, oil crops",Other oil crops
+138,"Sisal, raw",Permanent crops,unrecover
+139,Sorghum,Sorghum,Cereals
+140,Sour cherries,Permanent crops,unrecover
+141,Soya beans,Soybeans,"Beans, dry"
+142,Spinach,Fodder crops,unrecover
+143,Strawberries,Permanent crops,unrecover
+144,String beans,Pulses,"Beans, dry"
+145,Sugar beet,Sugar Beets,Sugar beets
+146,Sugar cane,Sugar Cane,Sugar cane
+147,Sunflower seed,"Rapeseed, oil crops",Sunflower seed
+148,Sweet potatoes,Roots and Tubers,Roots and tubers
+149,Tallowtree seeds,"Rapeseed, oil crops",Other oil crops
+150,"Tangerines, mandarins, clementines",Permanent crops,unrecover
+151,Taro,Roots and Tubers,Roots and tubers
+152,Tea leaves,Permanent crops,unrecover
+153,Tomatoes,Permanent crops,unrecover
+154,Triticale,"Wheat, other cereals",Cereals
+155,"True hemp, raw or retted","Rapeseed, oil crops",unrecover
+156,Tung nuts,Permanent crops,Other oil crops
+157,Unmanufactured tobacco,Fodder crops,unrecover
+158,"Vanilla, raw",Permanent crops,unrecover
+159,Vetches,Fodder crops,Other pulses
+160,"Walnuts, in shell",Permanent crops,unrecover
+161,Watermelons,Permanent crops,unrecover
+162,Wheat,"Wheat, other cereals",Cereals
+163,Yams,Roots and Tubers,Roots and tubers
+164,Yautia,Roots and Tubers,Roots and tubers

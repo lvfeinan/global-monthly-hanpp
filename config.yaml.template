@@ -1,0 +1,19 @@
+# Local path template for the A-C analysis record.
+# Copy this file to config.yaml and replace every placeholder.
+# External inputs and intermediate products are not distributed here.
+
+data_root: <PATH_TO_LOCAL_ANALYSIS_DATA>
+
+paths:
+  # Author-side MODIS and land-cover exports prepared outside this repository.
+  gee_exports: <PATH_TO_EARTH_ENGINE_EXPORTS>
+
+  # Third-party source data obtained from their original providers.
+  fao: <PATH_TO_FAOSTAT_DATA>
+  ggcmi: <PATH_TO_GGCMI_CROP_CALENDAR>
+  cropgrids: <PATH_TO_CROPGRIDS>
+  trendy: <PATH_TO_TRENDY_OUTPUT>
+  livestockmap: <PATH_TO_GRIDDED_LIVESTOCK_DATA>
+
+  # Local workspace for intermediate and final analysis products.
+  output: <PATH_TO_LOCAL_ANALYSIS_OUTPUT>

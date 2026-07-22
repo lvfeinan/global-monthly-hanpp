@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+tests/
+.ipynb_checkpoints/
+.venv/
+
+# Local configuration
+config.yaml
+
+# External inputs and local analysis outputs
+data/interim/
+data/output/
+gee_exports/
+*.nc
+*.tif
+*.parquet
+!data/main_figures/**/*.nc
+!data/main_figures/**/*.tif
+outputs/main_figures/
+
+# OS
+.DS_Store
+Thumbs.db

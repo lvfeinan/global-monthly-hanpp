@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "figures": [
+    "Fig1",
+    "Fig2",
+    "Fig3",
+    "Fig4"
+  ],
+  "scope": "Plot-ready final values for main-text figures only; upstream raw analysis inputs are excluded.",
+  "grid": {
+    "crs": "EPSG:4326",
+    "resolution_degrees": 0.1,
+    "longitude": [
+      -179.95,
+      179.95
+    ],
+    "latitude": [
+      -59.95,
+      79.95
+    ]
+  },
+  "files": [
+    {
+      "path": "figure1/global_annual.csv",
+      "bytes": 17154,
+      "sha256": "161b1f234dc54479e9c4e4b690036f4a6bde38be4c4058aa05f4be43bef25d69"
+    },
+    {
+      "path": "figure1/global_monthly.csv",
+      "bytes": 15696,
+      "sha256": "2e59e8e0f699c7a214f29accd189dc7799f1101c27de81a83bb58f2603bd32db"
+    },
+    {
+      "path": "figure1/NPPeco_annual.tif",
+      "bytes": 6672514,
+      "sha256": "b5682159fa17cd54a4e83e23dd8e6b4119fa2127ee2e00233acd0f68cb7156c3"
+    },
+    {
+      "path": "figure1/NPPeco_month_min.tif",
+      "bytes": 6731189,
+      "sha256": "31aa54fc5bc10c78bf3bdfc4a1f313e22da913ad690cf42a598fbfd2d22aeb87"
+    },
+    {
+      "path": "figure2/model_compare.csv",
+      "bytes": 11600,
+      "sha256": "a939718f79496f1246323ad82e7117c2d17ddb7f8908ee87dfff7766cbfbd83c"
+    },
+    {
+      "path": "figure2/sem_paths.csv",
+      "bytes": 3917,
+      "sha256": "db4ff40b8a3ca2a13b97ab8ea9e3156a9f8be99498d564d92cfdea335959514b"
+    },
+    {
+      "path": "figure3/maps.nc",
+      "bytes": 9271232,
+      "sha256": "e62444545cdf96f69dfad4233f2ac499f7fd0a8c709a42a428a21fb19509f114"
+    },
+    {
+      "path": "figure3/regional_timeseries.csv",
+      "bytes": 355453,
+      "sha256": "feda9a969f10ae5cbef299d774b6b762c4d1cce7c457f5d3373a303c2ab0ff3a"
+    },
+    {
+      "path": "figure4/maps.nc",
+      "bytes": 26221623,
+      "sha256": "fa9fb51b72cb60cabd73b68a430fc1989c14ebf4ed7b2107a1da79da583d32a2"
+    },
+    {
+      "path": "world_simplified.geojson",
+      "bytes": 2002531,
+      "sha256": "bfc119f63e6be09d3f29a3e553ac87094b79dd6c3985972ddec62c1c53ab3109"
+    }
+  ]
+}
