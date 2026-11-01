@@ -1,6 +1,6 @@
 # Global Monthly HANPP Reconstruction (2010-2024)
 
-Public code and main-text figure inputs for *Near-real-time monitoring of energetic bottlenecks reveals risks to global biodiversity*.
+Public code and main-text figure inputs for *Seasonal energy bottlenecks reveal constraints on vertebrate biodiversity*.
 
 The analysis reconstructs monthly human appropriation of net primary production (HANPP), actual net primary production (NPPact), and residual ecological production (NPPeco) on a global 0.1-degree grid.
 
